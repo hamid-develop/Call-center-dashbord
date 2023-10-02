@@ -1,8 +1,9 @@
 # Call-center-dashbord
 
 to clone on your local machine :
-install node js
-install git 
+1-install node js
+
+2-install git 
 right click in your directory and select "Git Bash here"
 in the git window write "git clone https://github.com/hamid-develop/Call-center-dashbord.git" then press Enter
 open src folder run Command prompt and then run "Code ."
